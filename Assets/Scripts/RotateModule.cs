@@ -9,6 +9,6 @@ public class RotateModule : MonoBehaviour
 
     private void Update()
     {
-        transform.Rotate(0f, rotateAngle * Time.deltaTime, 0f);
+        transform.Rotate(rotateAngle * Time.deltaTime, 0f, 0f);
     }
 }

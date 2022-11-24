@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 730bceac50c22ff4d9086614f2ea8d8b, type: 3}
   m_Name: New Object Properties
   m_EditorClassIdentifier: 
-  IsRotate: 0
+  IsRotate: 1
   IsPhysical: 0
-  ObjectMaterial: {fileID: 2100000, guid: 9bd7cfe3f186c1240848ba8b0f3a358e, type: 2}
-  ObjectNumber: 10
+  ObjectMaterial: {fileID: 2100000, guid: a8b27dc7791ce1e49b201cb77dfd3cde, type: 2}
+  ObjectNumber: 30
